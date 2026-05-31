@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Clipper custom folders
+ClipperBuffer/
+temp_buffer/
+clipper_config.json
